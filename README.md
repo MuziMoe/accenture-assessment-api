@@ -8,3 +8,5 @@ Thereafter navigate to the src directory using 'cd src'
 Then run the server using 'npx ts-node-dev server.ts'
 
 The API is now running and you can now run the frontend
+
+ALSO, please make sure you are running the latest node.js version (or atleast a version above 16)
